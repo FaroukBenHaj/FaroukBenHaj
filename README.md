@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faroukbenhaj" alt="faroukbenhaj" /></a> </p>
 
-- 🔭 I’m currently working on [ConstructionIQ](https://github.com/FaroukBenHaj/construction-project-manager.git)
+- 🔭 I’m currently working on [ConstructionIQ](https://github.com/FaroukBenHaj/Pidev-ConstructionIQ)
 
 - 🌱 I’m currently learning **Spring boot , .NET , AngularJS**
 
