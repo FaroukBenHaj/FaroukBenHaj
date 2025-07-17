@@ -5,10 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faroukbenhaj" alt="faroukbenhaj" /></a> </p>
 
-- 🔭 I’m currently working on [ConstructionIQ](https://github.com/FaroukBenHaj/Pidev-ConstructionIQ)
-  
-- 🔭 I’m currently working on [Mini-projet Architecture Microservice](https://github.com/FaroukBenHaj/Mini-Projet-Architecture-Distribue)
-
+- 🔭 Take a look on my latest acadamic projects : [ConstructionIQ](https://github.com/FaroukBenHaj/Pidev-ConstructionIQ) ,  [Mini-projet Architecture Microservice](https://github.com/FaroukBenHaj/Mini-Projet-Architecture-Distribue) and 
+[JobBoard](https://github.com/FaroukBenHaj/JobBoard_Microservice)
 - 🌱 I’m currently learning **Spring boot , .NET , AngularJS**
 
 - 📫 How to reach me **mohamedfarouk.benhajamor@gmail.com**
