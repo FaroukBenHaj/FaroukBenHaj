@@ -7,7 +7,7 @@
 
 - 🔭 Take a look on my latest acadamic projects : [ConstructionIQ](https://github.com/FaroukBenHaj/Pidev-ConstructionIQ) ,  [Mini-projet Architecture Microservice](https://github.com/FaroukBenHaj/Mini-Projet-Architecture-Distribue) and 
 [JobBoard](https://github.com/FaroukBenHaj/JobBoard_Microservice)
-- 🌱 I’m currently learning **Spring boot , .NET , AngularJS**
+- 🌱 I’m currently learning ** Next-Js , React and Astro**
 
 - 📫 How to reach me **mohamedfarouk.benhajamor@gmail.com**
 
